@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+
+.pou{
+    margin-top: 200px;
+}
+
+
+.titulo{
+    font-family:  Brush Script MT ;
+    font-size: 100px;
+}
+
+span{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    
+}
+.btn-contato button:hover{
+    background-color: blue;
+    box-shadow: 0px 0px 8px blue;
+    transform: scale(1.05);
+    }
+    
+    .btn-contato button{
+        padding: 10px 40px;
+        font-size: 18px;
+        font-weight: 600;
+        background-color:blue;
+        border: 0;
+        border-radius: 30px;
+        cursor: pointer;
+        transition: 50ms;
+    }
